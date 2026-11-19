@@ -1,6 +1,6 @@
 # Hi, I'm jieyang731 👋
 
-Welcome to my GitHub profile.
+I work at **CenterPoint**. Welcome to my GitHub profile.
 
 ## Explore
 
